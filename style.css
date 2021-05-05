@@ -76,3 +76,13 @@
     color: white;
     font-size: 16px;
 }
+
+#food-details{
+    width: 500px;
+    height: 600px;
+    margin: auto;
+}
+#food-details img {
+    width: 100%;
+    border-radius: 10px;
+}
