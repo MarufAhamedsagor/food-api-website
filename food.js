@@ -56,5 +56,5 @@ const renderFoodInfo = food => {
       <li>${food.strMeasure6}, ${food.strIngredient6}</li>
       </ul>
       `
-}
+};
 
